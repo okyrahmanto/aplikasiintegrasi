@@ -1,6 +1,7 @@
 <?php
     echo "Hello World!";
     echo "kelas 3B - IT Proyek";
-    echo "Siti Rukmana"
+    echo "Siti Rukmana";
+    echo "Muhammad Fajar Ramadhan";
 
 ?>
