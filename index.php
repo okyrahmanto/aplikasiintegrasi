@@ -5,5 +5,5 @@
     echo "Rifani Muhammad";
     echo "Sistem Integrasi";
     echo "Muhammad Fajar Ramadhan";
-    echo "Alfin";
+    echo "Alfin Bungas";
 ?>
